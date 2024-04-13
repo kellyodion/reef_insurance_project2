@@ -1,0 +1,13 @@
+---
+title: "Links to resources/background info"
+output: html_document
+date: "2024-03-16"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Interesting research/analysis on tourism in Yucatan peninsula. Don't fully understand it but they looked an tourism density in those areas and they have an open source github repo with their spatial data: https://link.springer.com/article/10.1007/s11135-023-01750-4 
+
+  
